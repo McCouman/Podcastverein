@@ -1,5 +1,5 @@
 # Podcastverein
-Website für [http://podcastverein.de](Podcastverein.de)
+Website für [Podcastverein.de](http://podcastverein.de)
 
 <img src="https://raw.githubusercontent.com/McCouman/Podcastverein/master/demo/1.png"/>
 <img src="https://raw.githubusercontent.com/McCouman/Podcastverein/master/demo/2.png"/>
